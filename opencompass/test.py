@@ -1,0 +1,1 @@
+DATASET_SOURCE=ModelScope python run.py eval_ceval2.py --debug
